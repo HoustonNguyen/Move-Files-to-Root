@@ -1,0 +1,6 @@
+G:\Hue_Files\GITHub\MoveFilesToRoot\MoveFilesToRoot\bin\Debug\MoveFilesToRoot.exe.config
+G:\Hue_Files\GITHub\MoveFilesToRoot\MoveFilesToRoot\bin\Debug\MoveFilesToRoot.exe
+G:\Hue_Files\GITHub\MoveFilesToRoot\MoveFilesToRoot\bin\Debug\MoveFilesToRoot.pdb
+G:\Hue_Files\GITHub\MoveFilesToRoot\MoveFilesToRoot\obj\Debug\MoveFilesToRoot.csprojResolveAssemblyReference.cache
+G:\Hue_Files\GITHub\MoveFilesToRoot\MoveFilesToRoot\obj\Debug\MoveFilesToRoot.exe
+G:\Hue_Files\GITHub\MoveFilesToRoot\MoveFilesToRoot\obj\Debug\MoveFilesToRoot.pdb
